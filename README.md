@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sujanchaudhary
 - 👀 I’m interested in web development/ designing
-- 🌱 I’m currently learning BIT
+- 🌱 I’m currently learning Bsc(Hons) computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me facebook JANSU
 
