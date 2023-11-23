@@ -1,3 +1,4 @@
+
 👋 Hello World! I'm Sujan Chaudhary, a passionate developer based in Itahari with a knack for crafting web experiences using React.js and Next.js.
 
 🎓 I graduated with honors in BSc (Hons) Computing from Itahari International College, where I honed my skills in software development and problem-solving.
